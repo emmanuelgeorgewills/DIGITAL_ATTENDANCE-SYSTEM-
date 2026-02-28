@@ -27,3 +27,4 @@ This is a Digital Attendance System designed for hour-based lectures. It allows 
  
  ## Author
  - George Gospel Mozu - 01241125D
+
