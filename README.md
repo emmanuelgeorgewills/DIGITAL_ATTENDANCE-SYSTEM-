@@ -26,5 +26,6 @@ This is a Digital Attendance System designed for hour-based lectures. It allows 
 - Text editor (e.g., Visual Studio Code)
  
  ## Author
- - George Gospel Mozu - 01241125D
+ - Azombli Emmanuel -01241404D
+
 
